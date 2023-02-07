@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on My New Hugo Site</title>
+    <link>https://allaisandrea.github.io/notes.github.io/articles/</link>
+    <description>Recent content in Articles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 07:08:02 -0800</lastBuildDate><atom:link href="https://allaisandrea.github.io/notes.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covariance intersection</title>
+      <link>https://allaisandrea.github.io/notes.github.io/articles/covariance_intersection/</link>
+      <pubDate>Mon, 06 Feb 2023 07:08:02 -0800</pubDate>
+      
+      <guid>https://allaisandrea.github.io/notes.github.io/articles/covariance_intersection/</guid>
+      <description> Title blah blah \[ a^2 + b^2 = c^2 \] </description>
+    </item>
+    
+  </channel>
+</rss>
